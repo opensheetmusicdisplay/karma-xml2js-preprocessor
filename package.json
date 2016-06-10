@@ -1,5 +1,15 @@
 {
   "name": "karma-xml2js-preprocessor",
-  "version": "0.0.1",
-  "main": "lib/index.js"
+  "description": "A Karma plugin. Convert XML files into JavaScript DOM objects to serve them in a script tag.",
+  "author": "PhonicScore GmbH",
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opensheetmusicdisplay/karma-xml2js-preprocessor.git"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Andrea Condoluci <andreacondoluci@gmail.com>"
+  ]
 }

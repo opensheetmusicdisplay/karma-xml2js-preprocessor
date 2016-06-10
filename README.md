@@ -37,6 +37,6 @@ For instance this `doc.xml`...
 ```
 ... will be served as `doc.xml.js`:
 ```js
-window.__html__ = window.__html__ || {};
-window.__html__['doc.xml'] = /* DOM object obtained by parsing the content of doc.xml */;
+window.__xml__ = window.__xml__ || {};
+window.__xml__['doc.xml'] = /* DOM object obtained by parsing the content of doc.xml */;
 ```
