@@ -1,5 +1,7 @@
 # karma-xml2js-preprocessor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opensheetmusicdisplay/karma-xml2js-preprocessor.svg)](https://greenkeeper.io/)
+
 Preprocessor for converting XML files into JavaScript DOM objects.
 
 ## Installation
