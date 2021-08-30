@@ -2,7 +2,7 @@
   "name": "karma-xml2js-preprocessor",
   "description": "A Karma plugin. Convert XML files into JavaScript DOM objects to serve them in a script tag.",
   "author": "PhonicScore GmbH",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "contributors": [
-    "Andrea Condoluci <andreacondoluci@gmail.com>"
+    "Andrea Condoluci <andreacondoluci@gmail.com>",
+    "Simon Schmid <simon.schmid.bsc@gmail.com"
   ]
 }
